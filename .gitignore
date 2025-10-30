@@ -1,0 +1,14 @@
+# PyCharm / cache
+.idea/
+__pycache__/
+
+# Datos biométricos / imágenes
+data/personas/
+data/encodings/
+*.pkl
+*.jpg
+*.jpeg
+*.png
+
+# Otros temporales
+*.log
